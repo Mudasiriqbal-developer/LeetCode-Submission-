@@ -31,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0704-binary-search](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0704-binary-search) |
 ## Stack
@@ -41,4 +42,12 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0704-binary-search) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
