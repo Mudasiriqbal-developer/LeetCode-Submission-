@@ -31,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0078-subsets) |
@@ -48,6 +49,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0078-subsets) |
@@ -57,4 +59,20 @@
 | ------- |
 | [0078-subsets](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0090-subsets-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
