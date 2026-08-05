@@ -10,6 +10,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -56,6 +57,7 @@
 | [0051-n-queens](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0037-sudoku-solver) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
