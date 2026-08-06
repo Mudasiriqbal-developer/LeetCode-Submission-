@@ -37,6 +37,7 @@
 | [0046-permutations](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0704-binary-search](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0704-binary-search) |
@@ -83,4 +84,12 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0131-palindrome-partitioning) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
