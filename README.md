@@ -41,6 +41,7 @@
 | [0090-subsets-ii](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0704-binary-search](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0704-binary-search) |
+| [2418-sort-the-people](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/2418-sort-the-people) |
 ## Stack
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0037-sudoku-solver) |
+| [2418-sort-the-people](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/2418-sort-the-people) |
 ## Matrix
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0131-palindrome-partitioning) |
+| [2418-sort-the-people](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,4 +95,5 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0088-merge-sorted-array) |
+| [2418-sort-the-people](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
