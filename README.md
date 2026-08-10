@@ -41,6 +41,7 @@
 | [0090-subsets-ii](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0704-binary-search](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0867-transpose-matrix) |
 | [2418-sort-the-people](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/2418-sort-the-people) |
 ## Stack
 |  |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0037-sudoku-solver) |
+| [0867-transpose-matrix](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0867-transpose-matrix) |
 ## Algorithm X
 |  |
 | ------- |
@@ -96,4 +98,8 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0088-merge-sorted-array) |
 | [2418-sort-the-people](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/2418-sort-the-people) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
