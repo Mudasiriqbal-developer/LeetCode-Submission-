@@ -66,6 +66,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0090-subsets-ii) |
+| [0868-binary-gap](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0868-binary-gap) |
 ## Hash Table
 |  |
 | ------- |
