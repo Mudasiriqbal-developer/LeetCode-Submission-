@@ -6,12 +6,14 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -20,6 +22,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
@@ -42,6 +45,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0704-binary-search](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0877-stone-game) |
 | [2418-sort-the-people](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/2418-sort-the-people) |
 ## Stack
 |  |
@@ -103,4 +107,12 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0867-transpose-matrix) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
