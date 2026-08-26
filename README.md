@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0088-merge-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -115,4 +116,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0877-stone-game) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
