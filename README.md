@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0037-sudoku-solver) |
+| [0141-linked-list-cycle](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0141-linked-list-cycle) |
 | [2418-sort-the-people](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/2418-sort-the-people) |
 ## Matrix
 |  |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -119,5 +121,10 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0876-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Mudasiriqbal-developer/LeetCode-Submission-/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
